@@ -1,4 +1,4 @@
-# ML Foundations
+# ML Coursework
 
 Portfolio repository showcasing practical AI implementation from my AI and Machine Learning Course across adversarial search and deep reinforcement learning.
 
