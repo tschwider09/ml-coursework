@@ -1,6 +1,6 @@
 # ML Foundations
 
-Portfolio repository showcasing practical AI implementation across adversarial search and deep reinforcement learning.
+Portfolio repository showcasing practical AI implementation from my AI and Machine Learning Course across adversarial search and deep reinforcement learning.
 
 ## Quick Gloss
 - Built and refactored two end-to-end AI projects into a production-style Python package.
